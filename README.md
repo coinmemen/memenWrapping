@@ -1,4 +1,4 @@
-# crypto-wraps
+# memen-wraps
  
 This module exposes convenience methods that wrap around webcrypto.subtle or window.crypto.subtle, for use in the browser or in node.js.
 
@@ -6,7 +6,7 @@ The methods provide a variety of use cases that by themselves require several st
 
 ## install
 
-**node.js**
+**memen.js**
 
 ```
 npm -i memenwrapping
@@ -16,7 +16,7 @@ npm -i memenwrapping
 **browser**
 
 ```
-npm -i --save-dev crypto-wraps
+npm -i memenwrapping
 ```
 
 
